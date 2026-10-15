@@ -10,12 +10,14 @@ print(df.columns)
 print(df.info())
 print(df["Churn"].value_counts(normalize=True))
 
-s = pd.Series(df["TotalCharges"])
-pd.to_numeric(s)
-df["TotalCharges"] = s
+
+df["TotalCharges"]=pd.to_numeric(df["TotalCharges"], errors="coerce")
+print(df['TotalCharges'].dtype)
+print(df["TotalCharges"].isnull().sum())
+
 df["Churn"].value_counts().plot(kind="bar")
 
 plt.title("Churn")
-plt.xlabel("Number of customers")
-plt.ylabel("Yes or NO")
+plt.xlabel("Yes or No")
+plt.ylabel("Number of Churns")
 plt.show()

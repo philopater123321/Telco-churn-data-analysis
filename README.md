@@ -26,6 +26,7 @@ and provide some business insights and recommendations for them to improve their
 ## Results:
 - before using ROC-AUC:
 <img width="570" height="237" alt="image" src="https://github.com/user-attachments/assets/c18e57f2-e8e9-4313-a446-3446012bb58b" />
+_________
 - after using it:
-  <img width="395" height="117" alt="image" src="https://github.com/user-attachments/assets/ecddf4bf-963d-46c9-95bd-d9c22442ec4f" />
+<img width="395" height="117" alt="image" src="https://github.com/user-attachments/assets/ecddf4bf-963d-46c9-95bd-d9c22442ec4f" />
 

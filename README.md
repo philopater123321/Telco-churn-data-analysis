@@ -30,3 +30,11 @@ _________
 - after using it:
 <img width="395" height="117" alt="image" src="https://github.com/user-attachments/assets/ecddf4bf-963d-46c9-95bd-d9c22442ec4f" />
 
+### Business insights:
+You can read my docx or word file for my conclusion from the model results and analysis.
+## How to run the code:
+- #### Place the following in one folder:
+- data.csv
+- main.py
+- install the required libraries in requirements.txt file
+

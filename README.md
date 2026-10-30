@@ -2,7 +2,7 @@
 This project is made to analyze the data for Telco customers, and create a model that helps them in finding why people are leaving their store 
 and provide some business insights and recommendations for them to improve their profit and also to increase the customers who don't leave the store.
 ### Important note:
-As this isn't a website or a game, so GitHub can't deploy it in their servers and provide a demo url instead you can download the exe file which is from this link: **[Download the Latest App (.exe)](https://github.com/philopater123321/Telco-churn-data-analysis/releases/lates)
+As this isn't a website or a game, so GitHub can't deploy it in their servers and provide a demo url instead you can download the exe file which is from this link: [Download the Latest App (.exe)](https://github.com/philopater123321/Telco-churn-data-analysis/releases/latest) just download the zip file and unzip it to be able to open the .exe file easily.
 or you can simply download the repository files and put all of them in one folder and you will be able to run the code manually on your computer, and you have the requirements.txt as a file, where you can open and see what are the python libraries you need to install to run the code on your computer.
 ## Libraries used and modules in python:
 - pandas for working with the data

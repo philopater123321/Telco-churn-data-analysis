@@ -38,7 +38,9 @@ ROC stands for receiver operating characteristic, and AUC stands for area under 
 - 1.0 means best classification
 - 0.5 same as random guessing
 - <0.5 worse than random guessing
+  
 My model got 0.84 which is pretty good.
+
 ### Business insights:
 You can read my docx or word file for my conclusion from the model results and analysis.
 ## How to run the code:

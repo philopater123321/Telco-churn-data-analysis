@@ -32,6 +32,13 @@ _________
 - after using it:
 <img width="395" height="117" alt="image" src="https://github.com/user-attachments/assets/ecddf4bf-963d-46c9-95bd-d9c22442ec4f" />
 
+## ROC-AUC score:
+This part of the code measures how accurate the model can differentiate between the customers who will churn and who will not.
+ROC stands for receiver operating characteristic, and AUC stands for area under the curve.
+- 1.0 means best classification
+- 0.5 same as random guessing
+- <0.5 worse than random guessing
+My model got 0.84 which is pretty good.
 ### Business insights:
 You can read my docx or word file for my conclusion from the model results and analysis.
 ## How to run the code:

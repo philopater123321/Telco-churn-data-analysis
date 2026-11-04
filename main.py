@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -114,9 +115,7 @@ plt.xlabel("Contract")
 plt.ylabel("Churn Rate")
 plt.show()
 
-
 result = df.groupby("Churn")[["tenure", "MonthlyCharges"]].mean()
-
 print(result)
 
-
+input('press enter to exit :)')
